@@ -31,7 +31,7 @@ response body(JSON)
 {
         "name": "xyz",
         "address": "xyz",
-        "pic": null,
+        "pic": http://xyzxyz,
         "companyName": "xyz",
         "number": "99999999",
         "alternativeNumbers": "8988776655"
